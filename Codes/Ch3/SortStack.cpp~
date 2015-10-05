@@ -1,0 +1,55 @@
+#include"bits/stdc++.h"
+
+using namespace std;
+
+class Stack{
+    int arr[100];
+    int stk_top;
+public:Stack():stk_top(0){}
+       void push(int v){
+        arr[stk_top++]=v;
+       }
+       void pop(){stk_top--;}
+       bool empty()const{
+        return stk_top==0;
+       }
+       int top(){if(stk_top==0)return 0;return arr[stk_top-1];}
+};
+
+void stack_input(Stack&stk){
+    puts("Please input Stack:(end with -1):");
+    int v;
+    while(cin>>v){
+        if(v==-1)break;
+        stk.push(v);
+    }
+    return ;
+}
+void disp_stack(Stack stk){
+    
+    while(stk.empty()==false){
+        printf("%d ,",stk.top());
+        stk.pop();
+    }
+    puts("");
+}
+void sort_stack(Stack&stk){
+    Stack rstk;
+
+    return ;
+}
+int main(){
+
+
+    Stack stk;
+    stack_input(stk);
+
+    disp_stack(stk);
+
+    sort_stack(stk);
+
+    disp_stack(stk);
+
+
+
+return 0;}
