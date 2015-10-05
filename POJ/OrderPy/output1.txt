@@ -1,0 +1,1819 @@
+
+
+     (1)枚举. (poj1753,poj2965)
+poj1753
+
+
+     (2)贪心(poj1328,poj2109,poj2586)
+poj2109
+poj2586
+
+
+     (5)构造法.(poj3295)
+poj3295
+
+
+     (6)模拟法.(poj1068,poj2632,poj1573,poj2993,poj2996)
+poj2632
+poj1573
+poj2993
+poj2996
+
+
+        (poj1860,poj3259,poj1062,poj2253,poj1125,poj2240)
+poj1860
+poj1062
+poj2253
+poj1125
+poj2240
+
+
+        (poj1789,poj2485,poj1258,poj3026)
+poj1789
+poj2485
+poj3026
+
+
+     (4)拓扑排序 (poj1094)
+
+
+     (5)二分图的最大匹配 (匈牙利算法) (poj3041,poj3020)
+poj3041
+poj3020
+
+
+     (6)最大流的增广路算法(KM算法). (poj1459,poj3436)
+poj1459
+poj3436
+
+
+     (1)串 (poj1035,poj3080,poj1936)
+poj1035
+poj3080
+poj1936
+
+
+     (2)排序(快排、归并排(与逆序数有关)、堆排) (poj2388,poj2299)
+poj2299
+
+
+        (poj3349,poj3274,POJ2151,poj1840,poj2002,poj2503)
+poj3274
+poj2002
+poj2503
+
+
+     (5)哈夫曼树(poj3253)
+
+
+     (7)trie树(静态建树、动态建树) (poj2513)
+poj2513
+
+
+     (1)深度优先搜索 (poj2488,poj3083,poj3009,poj1321,poj2251)
+poj2488
+poj3083
+poj3009
+poj1321
+poj2251
+
+
+     (2)广度优先搜索(poj3278,poj1426,poj3126,poj3087.poj3414)
+poj1426
+poj3126
+poj3087
+poj3414
+
+
+     (3)简单搜索技巧和剪枝(poj2531,poj1416,poj2676,1129)
+poj2531
+poj1416
+poj2676
+
+
+     (1)背包问题. (poj1837,poj1276)
+poj1837
+poj1276
+
+
+       1.E[j]=opt{D+w(i,j)} (poj3267,poj1836,poj1260,poj2533)
+poj3267
+poj1836
+poj1260
+poj2533
+
+
+         (poj3176,poj1080,poj1159)
+poj3176
+poj1080
+
+
+          (POJ3252,poj1850,poj1019,poj1942)
+poj1850
+poj1019
+
+
+          (poj2635, poj3292,poj1845,poj2115)
+poj2635
+poj3292
+poj1845
+poj2115
+
+
+        1.二分法求解单调函数相关知识.(poj3273,poj3258,poj1905,poj3122)
+poj3258
+poj3122
+
+
+     (2)叉积和点积的运用(如线段相交的判定,点到线段的距离等). (poj2031,poj1039)
+poj2031
+poj1039
+
+
+         (poj1408,poj1584)
+poj1408
+poj1584
+
+
+     (4)凸包. (poj2187,poj1113)
+poj2187
+poj1113
+
+
+     (1)C++的标准模版库的应用. (poj3096,poj3007)
+poj3096
+poj3007
+
+
+     (2)较为复杂的模拟题的训练(poj3393,poj1472,poj3371,poj1027,poj2706)
+poj3393
+poj1472
+poj3371
+poj1027
+poj2706
+
+
+     (1)差分约束系统的建立和求解. (poj1201,poj2983)
+poj1201
+poj2983
+
+
+     (2)最小费用最大流(poj2516,poj2516,poj2195)
+poj2516
+poj2516
+poj2195
+
+
+     (3)双连通分量(poj2942)
+poj2942
+
+
+     (4)强连通分支及其缩点.(poj2186)
+poj2186
+
+
+     (5)图的割边和割点(poj3352)
+
+
+     (6)最小割模型、网络流规约(poj3308, )
+poj3308
+
+
+     (1)线段树. (poj2528,poj2828,poj2777,poj2886,poj2750)
+poj2528
+poj2777
+poj2886
+poj2750
+
+
+     (2)静态二叉检索树. (poj2482,poj2352)
+poj2482
+poj2352
+
+
+     (3)树状树组(poj1195,poj3321)
+poj1195
+poj3321
+
+
+     (4)RMQ. (poj3264,poj3368)
+poj3368
+
+
+     (5)并查集的高级应用. (poj1703,2492)
+poj1703
+
+
+     (6)KMP算法. (poj1961,poj2406)
+poj1961
+
+
+     (2)搜索的技巧和优化 (poj3411,poj1724)
+poj3411
+poj1724
+
+
+     (3)记忆化搜索(poj3373,poj1691)
+poj3373
+poj1691
+
+
+         (poj1191,poj1054,poj3280,poj2029,poj2948,poj1925,poj3034)
+poj1191
+poj1054
+poj3280
+poj2029
+poj2948
+poj1925
+poj3034
+
+
+     (2)记录状态的动态规划. (POJ3254,poj2411,poj1185)
+poj2411
+
+
+     (3)树型动态规划(poj2057,poj1947,poj2486,poj3140)
+poj2057
+poj1947
+poj2486
+poj3140
+
+
+        3.置换群与Polya定理(poj1286,poj2409,poj3270,poj1026).
+poj1286
+poj2409
+poj3270
+poj1026
+
+
+        1.高斯消元法(poj2947,poj1487, poj2065,poj1166,poj1222)
+poj2947
+poj1487
+poj2065
+poj1166
+poj1222
+
+
+        2.概率问题. (poj3071,poj3440)
+poj3071
+poj3440
+
+
+        3.GCD、扩展的欧几里德(中国剩余定理) (poj3101)
+poj3101
+
+
+        1.0/1分数规划. (poj2976)
+poj2976
+
+
+        3.矩阵法(poj3150,poj3422,poj3070)
+poj3150
+poj3422
+
+
+        4.迭代逼近(poj3301)
+poj3301
+
+
+     (4)随机化算法(poj3318,poj2454)
+poj3318
+poj2454
+
+
+         (poj1870,poj3296,poj3286,poj1095)
+poj1870
+poj3296
+poj3286
+poj1095
+
+
+            (poj1765,poj1177,poj1151,poj3277,poj2280,poj3004)
+poj1765
+poj1177
+poj1151
+poj3277
+poj2280
+poj3004
+
+
+        (3)多边形的内核(半平面交)(poj3130,poj3335)
+poj3130
+poj3335
+
+
+        (4)几何工具的综合应用.(poj1819,poj1066,poj2043,poj3227,poj2165,poj3429)
+poj1819
+poj1066
+poj2043
+poj3227
+poj2165
+poj3429
+
+
+          (poj2525,poj1684,poj1421,poj1048,poj2050,poj3306)
+poj2525
+poj1684
+poj1421
+poj1048
+poj2050
+poj3306
+
+
+      (2)保证正确性和高效性. poj3434
+poj3434
+
+
+      (1)度限制最小生成树和第K最短路. (poj1639)
+poj1639
+
+
+         (poj3155, poj2112,poj1966,poj3281,poj1087,poj2289,poj3216,poj2446
+poj3155
+poj2112
+poj1966
+poj3281
+poj1087
+poj2289
+poj3216
+poj2446
+
+
+      (3)最优比率生成树. (poj2728)
+poj2728
+
+
+      (4)最小树形图(poj3164)
+poj3164
+
+
+      (1)trie图的建立和应用. (poj2778)
+poj2778
+
+
+          (RMQ+dfs)).(poj1330)
+poj1330
+
+
+          目的). (poj2823)
+
+
+         (poj3415,poj3294)
+poj3415
+poj3294
+
+
+      (1)较麻烦的搜索题目训练(poj1069,poj3322,poj1475,poj1924,poj2049,poj3426)
+poj1069
+poj3322
+poj1475
+poj1924
+poj2049
+poj3426
+
+
+      (2)广搜的状态优化:利用M进制数存储状态、转化为串用hash表判重、按位压缩存储状态、双向广搜、A*算法. (poj1768,poj1184,poj1872,poj1324,poj2046,poj1482)
+poj1768
+poj1184
+poj1872
+poj1324
+poj2046
+poj1482
+
+
+      (3)深搜的优化:尽量用位运算、一定要加剪枝、函数参数尽可能少、层数不易过大、可以考虑双向搜索或者是轮换搜索、IDA*算法. (poj3131,poj2870,poj2286)
+poj3131
+poj2870
+poj2286
+
+
+         (poj2754,poj3378,poj3017)
+poj2754
+poj3378
+poj3017
+
+
+      (3)较难的状态DP(poj3133)
+poj3133
+
+
+        1.MoBius反演(poj2888,poj2154)
+poj2888
+poj2154
+
+
+        1.极大极小过程(poj3317,poj1085)
+poj3317
+poj1085
+
+
+      (1)半平面求交(poj3384,poj2540)
+poj3384
+poj2540
+
+
+      (2)可视图的建立(poj2966)
+poj2966
+
+
+      (4)对踵点(poj2079)
+poj2079
+
+
+      (poj3109,poj1478,poj1462,poj2729,poj2048,poj3336,poj3315,poj2148,poj1263)
+poj3109
+poj1478
+poj1462
+poj2729
+poj2048
+poj3336
+poj3315
+poj2148
+poj1263
+
+
+1423, 1694, 1723, 1727, 1763, 1788, 1828, 1838, 1840, 2201, 2376, 2377, 2380, 
+poj1423
+
+
+1318, 1877, 1928, 1971, 1974, 1990, 2001, 2002, 2092, 2379, 
+poj1318
+
+
+1002（需要字符处理，排序用快排即可） 1007（稳定的排序） 2159（题意较难懂） 223
+
+
+1022 1111d 1118 1129 1190 1562 1564 1573 1655 2184 2225 2243 2312 2362 2378 238
+poj1022
+
+
+1745, 1847, 1915, 1950, 2038, 2157, 2182, 2183, 2381, 2386, 2426, 
+poj1745
+
+
+2349, 
+poj2349
+
+
+1714, 1753, 1771, 1826, 1855, 1856, 1890, 1924, 1935, 1948, 1979, 1980, 2170, 
+poj1714
+
+
+2288, 2331, 2339, 2340,1979（和迷宫类似） 1980（对剪枝要求较高）
+poj2288
+
+
+1008 2080 （这种题要小心）
+
+
+1012，1046， 1387， 1411， 2245， 2326， 2363， 2381，1054（剪枝要求较高），16
+
+
+2119, 2274, 1125(弗洛伊德算法) ，2421（图的最小生成树）
+poj2119
+
+
+1037 A decorative fence、
+poj1037
+
+
+1050 To the Max、
+poj1050
+
+
+1088 滑雪、
+
+
+1125 Stockbroker Grapevine、
+poj1125
+
+
+1141 Brackets Sequence、
+poj1141
+
+
+1159 Palindrome、
+
+
+1160 Post Office、
+poj1160
+
+
+1163 The Triangle、
+poj1163
+
+
+1458 Common Subsequence、
+
+
+1579 Function Run Fun、
+poj1579
+
+
+1887 Testing the CATCHER、
+poj1887
+
+
+1953 World Cup Noise、
+poj1953
+
+
+2386 Lake Counting
+poj2386
+
+
+1042, 1065, 1230, 1323, 1477, 1716, 1784,1328 1755（或用单纯形方法），2054，10
+
+
+1791, 1835, 1970, 2317, 2325, 2390, 
+poj1791
+
+
+1664
+poj1664
+
+
+1488, 1598, 1686, 1706, 1747, 1748, 1750, 1760, 1782, 1790, 1866, 1888, 1896, 
+poj1488
+
+
+1951, 2003, 2121, 2141, 2145, 2159, 2337, 2359, 2372, 2406, 2408, 1016 1051 11
+poj1951
+
+
+1006,1014,1023,1061,1152,1183,1730,2262
+
+
+1001 1023 1047 1060 1079 1131 1140 1142 1207 1220 1284 1289 1306 1316 1338 140
+
+
+1001, 1220, 1405, 1503,1001（高精度乘法） 2413(高精度加法，还有二分查找)
+
+
+1037,1050
+poj1037
+
+
+2195 going home，2400 supervisor, supervisee，1087 a plug for UNIX，1149 PIGS，
+poj2195
+
+
+1273 drainage ditches，1274 the perfect stall，1325 machine schedule，1459 pow
+poj1273
+
+
+1038 bugs integrated inc，1185 炮兵阵地，2430 lazy cow
+poj1038
+
+
+1080 human gene functions，1159 palindrome，1458 common subsequence，2192 zipp
+poj1080
+
+
+2421 Constructing Roads、
+poj2421
+
+
+2369 Permutations、
+poj2369
+
+
+2234 Matches Game、
+poj2234
+
+
+2243 Knight Moves、
+poj2243
+
+
+2249 Binomial Showdown、
+poj2249
+
+
+2255 Tree Recovery、
+
+
+2084 Game of Connections、
+poj2084
+
+
+1906 Three powers、
+poj1906
+
+
+1833 排列、
+poj1833
+
+
+1850 Code、
+poj1850
+
+
+1562 Oil Deposits、
+poj1562
+
+
+1496 Word Index、
+poj1496
+
+
+1306 Combinations、
+poj1306
+
+
+1125 Stockbroker Grapevine、
+poj1125
+
+
+1129 Channel Allocation、
+poj1129
+
+
+1146 ID Codes、
+poj1146
+
+
+1095 Trees Made to Order、找规律
+poj1095
+
+
+2247 Humble Numbers、
+poj2247
+
+
+2309 BST、
+poj2309
+
+
+2346 Lucky tickets、
+poj2346
+
+
+2370 Democracy in danger、
+poj2370
+
+
+2365 Rope、
+poj2365
+
+
+2101 Honey and Milk Land 
+poj2101
+
+
+2028 When Can We Meet?、
+poj2028
+
+
+2084 Game of Connections、
+poj2084
+
+
+1915 Knight Moves、
+poj1915
+
+
+1922 Ride to School、
+poj1922
+
+
+1941 The Sierpinski Fractal、
+
+
+1953 World Cup Noise、
+poj1953
+
+
+1958 Strange Towers of Hanoi、
+poj1958
+
+
+1969 Count on Canton、
+poj1969
+
+
+1806 Manhattan 2025、
+poj1806
+
+
+1809 Regetni、
+poj1809
+
+
+1844 Sum、
+poj1844
+
+
+1870 Bee Breeding、
+poj1870
+
+
+1702 Eva\'s Balance、
+poj1702
+
+
+1728 A flea on a chessboard、
+poj1728
+
+
+1604 Just the Facts、
+poj1604
+
+
+1642 Stacking Cubes、
+poj1642
+
+
+1656 Counting Black、
+poj1656
+
+
+1657 Distance on Chessboard、
+poj1657
+
+
+1662 CoIns、
+poj1662
+
+
+1663 Number Steps、
+poj1663
+
+
+1313 Booklet Printing、
+poj1313
+
+
+1316 Self Numbers、
+poj1316
+
+
+1320 Street Numbers、
+poj1320
+
+
+1323 Game Prediction、
+poj1323
+
+
+1338 Ugly Numbers、
+
+
+1244 Slots of Fun、
+poj1244
+
+
+1250 Tanning Salon、
+poj1250
+
+
+1102 LC-Display、
+poj1102
+
+
+1147 Binary codes、
+
+
+1013 Counterfeit Dollar、
+poj1013
+
+
+1067 取石子游戏、
+poj1067
+
+
+1740 A New Stone Game、
+poj1740
+
+
+2234 Matches Game、
+poj2234
+
+
+1082 Calendar Game 、
+poj1082
+
+
+2348 Euclid\'s Game、
+poj2348
+
+
+2413 How many Fibs?、
+poj2413
+
+
+2419 Forest
+poj2419
+
+
+1001 Exponentiation 、
+
+
+1002 487-3279、
+
+
+1003 Hangover 、
+
+
+1701 Dissatisfying Lift、
+poj1701
+
+
+2301 Beat the Spread!、
+poj2301
+
+
+2304 Combination Lock、
+poj2304
+
+
+2328 Guessing Game、
+poj2328
+
+
+2403 Hay Points 、
+poj2403
+
+
+2406 Power Strings、
+
+
+2339 Rock, Scissors, Paper、
+poj2339
+
+
+2350 Above Average、
+poj2350
+
+
+2218 Does This Make Me Look Fat?、
+poj2218
+
+
+2260 Error Correction、
+poj2260
+
+
+2262 Goldbach\'s Conjecture、
+poj2262
+
+
+2272 Bullseye、
+poj2272
+
+
+2136 Vertical Histogram、
+poj2136
+
+
+2174 Decoding Task、
+poj2174
+
+
+2183 Bovine Math Geniuses、
+poj2183
+
+
+2000 Gold Coins、
+
+
+2014 Flow Layout、
+poj2014
+
+
+2051 Argus、
+poj2051
+
+
+2081 Calendar、
+poj2081
+
+
+1918 Ranking List、
+poj1918
+
+
+1922 Ride to School、
+poj1922
+
+
+1970 The Game、
+poj1970
+
+
+1972 Dice Stacking、
+poj1972
+
+
+1974 The Happy Worm、
+poj1974
+
+
+1978 Hanafuda Shuffle、
+poj1978
+
+
+1979 Red and Black、
+poj1979
+
+
+1617 Crypto Columns、
+poj1617
+
+
+1666 Candy Sharing Game、
+poj1666
+
+
+1674 Sorting by Swapping、
+poj1674
+
+
+1503 Integer Inquiry、
+poj1503
+
+
+1504 Adding Reversed Numbers、
+poj1504
+
+
+1528 Perfection、
+poj1528
+
+
+1546 Basically Speaking、
+poj1546
+
+
+1547 Clay Bully、
+poj1547
+
+
+1573 Robot Motion、
+poj1573
+
+
+1575 Easier Done Than Said?、
+poj1575
+
+
+1581 A Contesting Decision、
+poj1581
+
+
+1590 Palindromes、
+poj1590
+
+
+1454 Factorial Frequencies、
+poj1454
+
+
+1363 Rails、
+
+
+1218 THE DRUNK JAILER、
+poj1218
+
+
+1281 MANAGER、
+poj1281
+
+
+1132 Border、
+poj1132
+
+
+1028 Web Navigation、
+poj1028
+
+
+1003 Hangover、
+
+
+1045 Bode Plot、
+
+
+1254 Hansel and Grethel、
+poj1254
+
+
+1269 Intersecting Lines、
+poj1269
+
+
+1401 Factorial、
+poj1401
+
+
+1410 Intersection、
+
+
+2363 Blocks 、
+poj2363
+
+
+2365 Rope、
+poj2365
+
+
+2242 The Circumference of the Circle、
+poj2242
+
+
+2291 Rotten Ropes、
+poj2291
+
+
+2295 A DP Problem、
+poj2295
+
+
+2126 Factoring a Polynomial、
+poj2126
+
+
+2191 Mersenne Composite Numbers、
+poj2191
+
+
+2196 Specialized Four-Digit Numbers、
+poj2196
+
+
+1914 Cramer\'s Rule、
+poj1914
+
+
+1835 宇航员、
+poj1835
+
+
+1799 Yeehaa!、
+poj1799
+
+
+1607 Deck、
+poj1607
+
+
+1244 Slots of Fun、
+poj1244
+
+
+1269 Intersecting Lines、
+poj1269
+
+
+1299 Polar Explorer、
+poj1299
+
+
+1183 反正切函数的应用、
+poj1183
+
+
+1274, 1422, 1469, 1719, 2060, 2239,
+
+
+1011（搜索好题） 
+
+
+1012（学会打表）
+
+
+1013
+poj1013
+
+
+1019（它体现了很多此类问题的特点）
+poj1019
+
+
+1050（绝对经典的dp）
+poj1050
+
+
+1088（dp好题）
+
+
+1157（花店，经典的dp）
+poj1157
+
+
+1163（怎么经典的dp那么多呀？？？）
+poj1163
+
+
+1328（贪心）
+
+
+1458（最长公共子序列）
+
+
+1647（很好的真题，考临场分析准确和下手迅速）
+poj1647
+
+
+1654（学会多边形面积的三角形求法）
+poj1654
+
+
+1655（一类无根树的dp问题）
+
+
+1804（逆序对）
+poj1804
+
+
+2084（经典组合数学问题）
+poj2084
+
+
+2187（用凸包求最远点对，求出凸包后应该有O(N)的求法，可我就是调不出来）
+poj2187
+
+
+2195（二分图的最佳匹配）
+poj2195
+
+
+2242（计算几何经典）
+poj2242
+
+
+2295（等式处理）
+poj2295
+
+
+2353（dp，但要记录最佳路径）
+poj2353
+
+
+2354（立体解析几何）
+poj2354
+
+
+2362（搜索好题）
+poj2362
+
+
+2410（读懂题是关键）
+poj2410
+
+
+2411（经典dp）
+poj2411
+
+
+1067（很难的数学，但仔细研究，是一片广阔的领域）
+poj1067
+
+
+1147（有O(n)的算法，需要思考）
+
+
+1240（直到一棵树的先序和后序遍历，那么有几种中序遍历呢？dp）
+poj1240
+
+
+1426（是数论吗？错，是图论！）
+poj1426
+
+
+1648（别用计算几何，用整点这个特点绕过精度的障碍吧）
+poj1648
+
+
+1833（找规律）
+poj1833
+
+
+1844（貌似dp或是搜索，其实是道有趣的数学题）
+poj1844
+
+
+1922（贪心，哈哈）
+poj1922
+
+
+2231
+poj2231
+
+
+2305（不需要高精度噢）
+poj2305
+
+
+2328（要仔细噢）
+poj2328
+
+
+2356（数论知识）
+poj2356
+
+
+2359（约瑟夫问题变种）
+poj2359
+
+
+2392（有趣的问题）
+poj2392
+
+
+1001
+
+
+1008
+
+
+1087（构图很烦，还有二分图的最大匹配）
+poj1087
+
+
+1128（USACO）
+poj1128
+
+
+1245
+poj1245
+
+
+1329
+poj1329
+
+
+1550（考的是读题和理解能力）
+poj1550
+
+
+1649（dp）
+poj1649
+
+
+2200（字符串处理+枚举）
+poj2200
+
+
+2358（枚举和避免重复都很烦）
+poj2358
+
+
+2361（仔细仔细再仔细）
+poj2361
+
+
+1014（数学证明比较难，但有那种想法更重要）
+poj1014
+
+
+1037（比较难的dp）
+poj1037
+
+
+1405（高精度算法也分有等级之分，不断改进吧）
+poj1405
+
+
+2002（不知道有没有比O(n^2*logn)更有的算法？）
+poj2002
+
+
+2054（极难，很强的思考能力）
+
+
+2085（组合数学）
+poj2085
+
+
+2414（dp，但要剪枝）
+poj2414
+
+
+2415（搜索）
+poj2415
+
+
+2423（计算几何+统计）
+poj2423
+
+
+1002（可以用排序，也可以用统计的方法）
+
+
+1338（搜索和dp都可以）
+
+
+1664（搜索和dp都练一练吧）
+poj1664
+
+
+2082（这可是我讲的题噢）
+poj2082
+
+
+2352（桶排和二叉树都行）
+poj2352
+
+
+1011: 很经典的剪支
+
+
+1014: 难在数学上
+poj1014
+
+
+1017: 严格的数学证明貌似不容易
+poj1017
+
+
+1021: 有点繁,考察对图形进行各种旋转的处理
+poj1021
+
+
+1083: 巧妙的思考角度
+poj1083
+
+
+1150: 分奇偶讨论,lg(n)算法
+poj1150
+
+
+1218: 三行就够了,虽然简单,但也有优劣之别
+poj1218
+
+
+1505: 二分加贪心
+poj1505
+
+
+1654: 做法也许很多吧,本人用有向面积做的
+poj1654
+
+
+1674: 计算圈的个数(算是graph 吧)
+poj1674
+
+
+1700: 数学证明不容易
+poj1700
+
+
+1742: O(m*n)的算法
+
+
+1863: 要耐心地慢慢写…^_^
+poj1863
+
+
+1988: 并查集
+poj1988
+
+
+2051: 堆
+poj2051
+
+
+2078: 不难，但剪支可以做到很好
+poj2078
+
+
+2082::O(n),你想到了吗？
+poj2082
+
+
+2084: 卡特兰数
+poj2084
+
+
+2182: 线段树
+poj2182
+
+
+2195: 最小费用最大流
+poj2195
+
+
+2234: 经典博弈算法
+poj2234
+
+
+2236: 并查集
+poj2236
+
+
+2299: 二分思想
+poj2299
+
+
+2395: Kruskal 最小生成树的拓展
+poj2395
+
+
+2406: KMP
+
+
+2411: 用二进制串来表示状态
+poj2411
+
+
+(poj3299,poj2159,poj2739
+
+
+,poj1083,poj2262,poj1503,poj3006,poj2255,poj3094)
+poj1083
+poj2262
+poj1503
+poj3006
+
+
+    (1)枚举. (poj1753,poj2965)
+poj1753
+
+
+    (2)贪心(poj1328,poj2109,poj2586)
+poj2109
+poj2586
+
+
+    (5)构造法.(poj3295) 
+poj3295
+
+
+    (6)模拟法.(poj1068,poj2632,poj1573,poj2993,poj2996)
+poj2632
+poj1573
+poj2993
+poj2996
+
+
+       (poj1860,poj3259,poj1062,poj2253,poj1125,poj2240)
+poj1860
+poj1062
+poj2253
+poj1125
+poj2240
+
+
+       (poj1789,poj2485,poj1258,poj3026)
+poj1789
+poj2485
+poj3026
+
+
+    (4)拓扑排序 (poj1094)
+
+
+    (5)二分图的最大匹配 (匈牙利算法) (poj3041,poj3020)
+poj3041
+poj3020
+
+
+    (6)最大流的增广路算法(KM算法). (poj1459,poj3436)
+poj1459
+poj3436
+
+
+    (1)串 (poj1035,poj3080,poj1936) 
+poj1035
+poj3080
+poj1936
+
+
+    (2)排序(快排、归并排(与逆序数有关)、堆排) (poj2388,poj2299)
+poj2299
+
+
+       (poj3349,poj3274,POJ2151,poj1840,poj2002,poj2503)
+poj3274
+poj2002
+poj2503
+
+
+    (5)哈夫曼树(poj3253)
+
+
+    (7)trie树(静态建树、动态建树) (poj2513) 
+poj2513
+
+
+    (1)深度优先搜索 (poj2488,poj3083,poj3009,poj1321,poj2251)
+poj2488
+poj3083
+poj3009
+poj1321
+poj2251
+
+
+    (2)广度优先搜索(poj3278,poj1426,poj3126,poj3087.poj3414)
+poj1426
+poj3126
+poj3087
+poj3414
+
+
+    (3)简单搜索技巧和剪枝(poj2531,poj1416,poj2676,1129)
+poj2531
+poj1416
+poj2676
+
+
+    (1)背包问题. (poj1837,poj1276) 
+poj1837
+poj1276
+
+
+      1.E[j]=opt{D[i]+w(i,j)} (poj3267,poj1836,poj1260,poj2533)
+poj3267
+poj1836
+poj1260
+poj2533
+
+
+        (poj3176,poj1080,poj1159) 
+poj3176
+poj1080
+
+
+         (POJ3252,poj1850,poj1019,poj1942)
+poj1850
+poj1019
+
+
+         (poj2635, poj3292,poj1845,poj2115)
+poj2635
+poj3292
+poj1845
+poj2115
+
+
+    (3)计算方法.   ,poj3429) 
+poj3429
+
+
+         (poj2525,poj1684,poj1421,poj1048,poj2050,poj3306)
+poj2525
+poj1684
+poj1421
+poj1048
+poj2050
+poj3306
+
+
+     (2)保证正确性和高效性.  poj3434
+poj3434
+
+
+     (1)度限制最小生成树和第K最短路. (poj1639)
+poj1639
+
+
+        (poj3155, poj2112,poj1966,poj3281,poj1087,poj2289,poj3216,poj2446
+poj3155
+poj2112
+poj1966
+poj3281
+poj1087
+poj2289
+poj3216
+poj2446
+
+
+     (3)最优比率生成树.  (poj2728)
+poj2728
+
+
+     (4)最小树形图(poj3164)
+poj3164
+
+
+     (1)trie图的建立和应用. (poj2778) 
+poj2778
+
+
+         (RMQ+dfs)).(poj1330)
+poj1330
+
+
+         目的).  (poj2823)
+
+
+        (poj3415,poj3294)
+poj3415
+poj3294
+
+
+     (1)较麻烦的搜索题目训练(poj1069,poj3322,poj1475,poj1924,poj2049,poj3426)
+poj1069
+poj3322
+poj1475
+poj1924
+poj2049
+poj3426
+
+
+     (2)广搜的状态优化:利用M进制数存储状态、转化为串用hash表判重、按位压缩存储状态、双向广搜、A*算法. (poj1768,poj1184,poj1872,poj1324,poj2046,poj1482) 
+poj1768
+poj1184
+poj1872
+poj1324
+poj2046
+poj1482
+
+
+     (3)深搜的优化:尽量用位运算、一定要加剪枝、函数参数尽可能少、层数不易过大、可以考虑双向搜索或者是轮换搜索、IDA*算法. (poj3131,poj2870,poj2286)
+poj3131
+poj2870
+poj2286
+
+
+        (poj2754,poj3378,poj3017)
+poj2754
+poj3378
+poj3017
+
+
+     (3)较难的状态DP(poj3133) 
+poj3133
+
+
+       1.MoBius反演(poj2888,poj2154)
+poj2888
+poj2154
+
+
+       1.极大极小过程(poj3317,poj1085)
+poj3317
+poj1085
+
+
+     (1)半平面求交(poj3384,poj2540)
+poj3384
+poj2540
+
+
+     (2)可视图的建立(poj2966) 
+poj2966
+
+
+     (4)对踵点(poj2079)
+poj2079
+
+
+     (poj3109,poj1478,poj1462,poj2729,poj2048,poj3336,poj3315,poj2148,poj1263)
+poj3109
+poj1478
+poj1462
+poj2729
+poj2048
+poj3336
+poj3315
+poj2148
+poj1263
+
+
+2014年5月 (15)
+poj2014
+
+
+2014年4月 (3)
+poj2014
+
+
+2014年3月 (3)
+poj2014
+
+
+2014年2月 (7)
+poj2014
+
+
+2014年1月 (7)
+poj2014
+
+
+2013年12月 (7)
+poj2013
+
+
+2013年11月 (16)
+poj2013
+
+
+2013年10月 (10)
+poj2013
+
+
+2013年9月 (45)
+poj2013
+
+
+2013年8月 (72)
+poj2013
+
+
+2013年7月 (70)
+poj2013
+
+
+2013年6月 (26)
+poj2013
+
+
+2013年5月 (35)
+poj2013
+
+
+2013年4月 (49)
+poj2013
+
+
+2013年3月 (13)
+poj2013
+
+
+2013年2月 (2)
+poj2013
+
+
+2012年12月 (3)
+poj2012
+
+
+2012年11月 (17)
+poj2012
+
+
+2012年10月 (58)
+poj2012
+
+
+2012年9月 (77)
+poj2012
+
+
+2012年8月 (135)
+poj2012
+
+
+2012年7月 (6)
+poj2012
+
+
+2012年6月 (6)
+poj2012
+
+
+2012年5月 (7)
+poj2012
+
+
+2012年4月 (15)
+poj2012
+
+
+2012年3月 (27)
+poj2012
+
+
+2012年2月 (2)
+poj2012
+
+
+2012年1月 (1)
+poj2012
+
+
+2011年12月 (2)
+poj2011
+
+
+2011年11月 (22)
+poj2011
+
+
+2011年10月 (9)
+poj2011
+
+
+2011年9月 (9)
+poj2011
+
+
+2011年8月 (101)
+poj2011
+
+
+2011年7月 (55)
+poj2011
+
+
+2011年6月 (2)
+poj2011
+
+
+2011年5月 (1)
+poj2011
+
+
+poj1077= =，博主Code已TLE
