@@ -50,7 +50,7 @@ map J $
 set cindent
 
 set encoding=utf-8
-set fileencodings=utf-8,chinese,latin-1
+set fileencodings=GBK,utf-8,chinese,latin-1
 if has("win32")
 set fileencoding=chinese
 else
