@@ -41,21 +41,25 @@ set showmatch           " highlight matching [{()}]
 exec ":set nu!"
 exec ":set expandtab"
 exec ":set shiftwidth=4"
+
+" Key Mapping
 map <F9> :w <CR> :! python %<CR>
 map <F8> :w <CR> :! g++ % -std=c++11 -o %< <CR>:! %< 
+map J $
+
 set cindent
 
 set encoding=utf-8
-set fileencodings=utf-8,chinese,latin-1
+set fileencodings=GBK,utf-8,chinese,latin-1
 if has("win32")
 set fileencoding=chinese
 else
 set fileencoding=utf-8
 endif
-"½â¾ö²Ëµ¥ÂÒÂë
+"è§£å†³èœå•ä¹±ç 
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
-"½â¾öconsleÊä³öÂÒÂë
+"è§£å†³consleè¾“å‡ºä¹±ç 
 language messages zh_CN.utf-8
 
 " plugin manager
