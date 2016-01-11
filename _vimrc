@@ -58,3 +58,22 @@ source $VIMRUNTIME/menu.vim
 "½â¾öconsleÊä³öÂÒÂë
 language messages zh_CN.utf-8
 
+" plugin manager
+execute pathogen#infect()
+" Nerd Tree
+autocmd vimenter * NERDTree
+autocmd VimEnter * wincmd p
+" syntastic plugin
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+" map key
+map J $
+map <F2> :NERDTree<CR>
+map <F3> :TagbarOpen<CR>
+imap ` <C-N>
